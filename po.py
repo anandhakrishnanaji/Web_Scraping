@@ -9,3 +9,4 @@ with requests.Session() as s:
 #To Run
 #python3 po.py > filename.html
 #firefox filename.html  
+# https://pybit.es/requests-session.html
